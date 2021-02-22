@@ -1,6 +1,7 @@
 # quizzler
 
-A question and ans application.Where user give ans of particular question and user can see is there question is right or wrong
+A question and ans application.Where user give ans of particular question and user can see is there question is right or wrong🤷.
+
 
 ## Getting Started
 

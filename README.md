@@ -1,6 +1,9 @@
 # quizzler
 
-A question and ans application.Where user give ans of particular question and user can see is there question is right or wrong
+A question and ans application.Where user give ans of particular question and user can see is there question is right or wrong🤷.
+<br>
+<img src="https://github.com/siumhossain/quizzler_app_flutter/blob/master/open.png">
+
 
 ## Getting Started
 

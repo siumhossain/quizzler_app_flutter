@@ -5,7 +5,7 @@ A question and ans application.Where user give ans of particular question and us
 ### App opening screen
 <hr>
 <img src="https://github.com/siumhossain/quizzler_app_flutter/blob/master/screen_record1.gif">
-### Alert functionality
+<h3> Alert functionality </h3>
 <hr>
 <img src="https://github.com/siumhossain/quizzler_app_flutter/blob/master/screen_record2.gif">
 

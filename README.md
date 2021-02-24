@@ -1,11 +1,11 @@
 # quizzler
 
 A question and ans application.Where user give ans of particular question and user can see is there question is right or wrong🤷.
-<br>
-App opening screen
+<br><br>
+### App opening screen
 <hr>
 <img src="https://github.com/siumhossain/quizzler_app_flutter/blob/master/screen_record1.gif">
-Alert functionality
+### Alert functionality
 <hr>
 <img src="https://github.com/siumhossain/quizzler_app_flutter/blob/master/screen_record2.gif">
 
